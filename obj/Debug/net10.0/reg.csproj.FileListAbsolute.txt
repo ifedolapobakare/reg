@@ -1,0 +1,14 @@
+C:\Users\stare\OneDrive\Desktop\reg\obj\Debug\net10.0\reg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stare\OneDrive\Desktop\reg\obj\Debug\net10.0\reg.AssemblyInfoInputs.cache
+C:\Users\stare\OneDrive\Desktop\reg\obj\Debug\net10.0\reg.AssemblyInfo.cs
+C:\Users\stare\OneDrive\Desktop\reg\obj\Debug\net10.0\reg.csproj.CoreCompileInputs.cache
+C:\Users\stare\OneDrive\Desktop\reg\bin\Debug\net10.0\reg.exe
+C:\Users\stare\OneDrive\Desktop\reg\bin\Debug\net10.0\reg.deps.json
+C:\Users\stare\OneDrive\Desktop\reg\bin\Debug\net10.0\reg.runtimeconfig.json
+C:\Users\stare\OneDrive\Desktop\reg\bin\Debug\net10.0\reg.dll
+C:\Users\stare\OneDrive\Desktop\reg\bin\Debug\net10.0\reg.pdb
+C:\Users\stare\OneDrive\Desktop\reg\obj\Debug\net10.0\reg.dll
+C:\Users\stare\OneDrive\Desktop\reg\obj\Debug\net10.0\refint\reg.dll
+C:\Users\stare\OneDrive\Desktop\reg\obj\Debug\net10.0\reg.pdb
+C:\Users\stare\OneDrive\Desktop\reg\obj\Debug\net10.0\reg.genruntimeconfig.cache
+C:\Users\stare\OneDrive\Desktop\reg\obj\Debug\net10.0\ref\reg.dll
